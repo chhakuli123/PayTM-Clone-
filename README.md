@@ -5,6 +5,8 @@
 
 ## Project Name: Paytm Clone by Tailwind CSS
 
+## 🔗Live Link -: [Paytm-Clone](https://paytm-clone-by-chhakuli.netlify.app/)
+
 ---
 
 ### Project Descripttion
